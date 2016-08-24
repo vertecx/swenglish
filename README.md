@@ -12,3 +12,8 @@ Learning US ANSI (and Swenglish) is relatively easy as it shares the placement o
 Compared to the US International keyboard layout, Swenglish borrows the placement of the å, ä and ö characters from the Swedish keyboard layout. The characters are typed by using the AltGr modifier key.
 
 A bonus advantage gained from switching to a US ANSI keyboard is that the range of mechanical keyboards gets much bigger!  :smiley:
+
+## Preview
+Modified keys are shown in blue.
+
+![Swenglish keyboard layout preview](Preview.png)
